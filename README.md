@@ -2,6 +2,9 @@
 
 Bu bot, TCDD'nin e-bilet sitesinde belirtilen seferler için ekonomi sınıfı biletlerini otomatik olarak kontrol eder ve boş bilet bulunduğunda mail ile bildirim gönderir.
 
+
+# Uygulama test amaçlı yapılmıştır. Hiçbir şekilde TCDD'ye zarar vermek amacıyla yapılmamıştır. Herhangi bir sorun için sorumluluk kabul edilmemektedir.
+
 ## Özellikler
 
 - İlk çalıştırmada mevcut tüm seferleri mail ile bildirir
